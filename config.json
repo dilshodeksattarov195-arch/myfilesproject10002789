@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesonnect",
+        "uuid": 7231877,
+        "checksum": "f4hehq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
